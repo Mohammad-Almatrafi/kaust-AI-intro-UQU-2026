@@ -14,28 +14,28 @@ installation guide in thier website [pytorch website](https://pytorch.org/)
 
 ## Day 1: Machine Learning Foundations
 
-<img src="https://drive.google.com/uc?id=1eWsO4CFI_xR9j5ZwXHyRkZ3NrYEgEP4v" width="850"/>
+<img src="https://drive.google.com/uc?id=1SL63I3vmTUE5R5VITxA726g8WV1fJfBM" width="850"/>
 
 |lecture|[slides](Day1/Stage_2_2026_Day1.pdf)|
 | :---: | :---: |
 
 ## Day 2: Machine Learning Algorithms
 
-<img src="https://drive.google.com/uc?id=1nvmlZ1EInbdXC00HShBijk9u5vZKvksX" width="850"/>
+<img src="https://drive.google.com/uc?id=11ehp6bYi-qDJ5LxXyqroorldohjKROss" width="850"/>
 
 |lecture|[slides](Day2/Stage_2_2026_Day2.pdf)|
 | :---: | :---: |
 
 ## Day 3: Fundamentals of Deep Learning
 
-<img src="https://drive.google.com/uc?id=13cNZBFdiQ7yC2aiGFWEdsk7M7QvRHiKG" width="850"/>
+<img src="https://drive.google.com/uc?id=1-zTyOhd6wVwloTvpBGWPf6ZeQ_280VU8" width="850"/>
 
 |lecture|[slides](Day3/Stage_2_2026_Day3.pdf)|
 | :---: | :---: |
 
 ## Day 4: Unsupervised Learning
 
-<img src="https://drive.google.com/uc?id=17ff7A0TovOOnEZ70-XU1uaZl7qrLw19e" width="850"/>
+<img src="https://drive.google.com/uc?id=1Q5uoJ6_mMSAR9Ut9M9VfjfQvW4ldVuHg" width="850"/>
 
 |lecture|[slides](Day4/Stage_2_2026_Day4.pdf)|
 | :---: | :---: |
