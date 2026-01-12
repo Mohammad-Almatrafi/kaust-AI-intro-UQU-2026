@@ -7,9 +7,8 @@ you can install the libraries in requirement.txt using this command
 ```bash
 pip install -r /path/to/requirements.txt
 ```
-just keep in mind that the version of pytorch provided in the requirements.txt
-is a cpu version only.<br>
-you can install the gpu(cuda) version by following the
+just keep in mind that pytorch is not provided in the requirements.txt.
+you can install pytorch by following the
 installation guide in thier website [pytorch website](https://pytorch.org/)
 
 <!---------------------------------->
