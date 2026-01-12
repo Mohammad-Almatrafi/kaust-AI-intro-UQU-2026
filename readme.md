@@ -24,11 +24,13 @@ installation guide in thier website [pytorch website](https://pytorch.org/)
 |||
 | :---: | :---: |
 |lecture👨‍🏫|[slides](Day1/Stage_2_2026_Day1.pdf)|
-|local lab 1👨‍🏫|[notebook](Day1/Labs/Day1_Lab1_ScikitLearnBasics_UQU.ipynb)|
-|colab lab 1👨‍🏫|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tutlZMNacRfiR2tNvkwx8uNQBnEvICCR?usp=sharing)|
-|local lab 2👨‍🏫|[notebook](Day1/Labs/Day1_Lab2_EDA_DataPreprocessing.ipynb)|
-|colab lab 2👨‍🏫|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m845ieHM-GZQ54zZl55Qevd_OvT-w-Rx?usp=sharing)|
+|local lab 1📓|[notebook](Day1/Labs/Day1_Lab1_ScikitLearnBasics_UQU.ipynb)|
+|colab lab 1💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tutlZMNacRfiR2tNvkwx8uNQBnEvICCR?usp=sharing)|
 
+|local lab 2📓|[notebook](Day1/Labs/Day1_Lab2_EDA_DataPreprocessing.ipynb)|
+|colab lab 2💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m845ieHM-GZQ54zZl55Qevd_OvT-w-Rx?usp=sharing)|
+
+|Quiz day1📝|[notebook](Day1/Labs/Day1_Lab2_EDA_DataPreprocessing.ipynb)|
 
 
 ## Day 2: Machine Learning Algorithms
