@@ -2,7 +2,7 @@
 
 ## quickstart
 [Useful python cheat sheet](Day1/Python_Cheat_Sheet.pdf)<br>
-if you want to run the notebooks locally this is the [requirement.txt](./requirement.txt) for all libraries.<br>
+if you want to run the notebooks locally this is the [requirements.txt](./requirements.txt) for all libraries.<br>
 you can install the libraries in requirement.txt using this command
 ```bash
 pip install -r /path/to/requirements.txt
