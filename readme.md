@@ -44,6 +44,8 @@ installation guide in thier website [pytorch website](https://pytorch.org/)
 |colab lab 2💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/KAUST_Academy_2026_Introduction_To_AI/blob/main/Labs/Day_2/Day2_Lab2_BinaryClassification.ipynb)|
 |redacted local lab 3📓|[notebook](Day2/Labs/Day2_Lab3_MultiClassClassification_redacted.ipynb)|
 |redacted colab lab 3💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CVRYnSsgRxkBNHYtnKUA6D8UVRfXFhGv?usp=sharing)|
+|local lab 3📓|[notebook](Day2/Labs/Day2_Lab3_MultiClassClassification.ipynb)|
+|colab lab 3💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/KAUST_Academy_2026_Introduction_To_AI/blob/main/Labs/Day_2/Day2_Lab3_MultiClassClassification.ipynb)|
 |Quiz day2📝|[link](https://ahaslides.com/3V1IK)|
 
 ## Day 3: Fundamentals of Deep Learning
