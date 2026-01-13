@@ -29,6 +29,7 @@ installation guide in thier website [pytorch website](https://pytorch.org/)
 |colab lab 2💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m845ieHM-GZQ54zZl55Qevd_OvT-w-Rx?usp=sharing)|
 |Quiz day1📝|[link](https://ahaslides.com/BXX9U)|
 |Exercise day1🧠|[notebook](Day1/Exercise/Day1_exercise.ipynb)|
+|Exercise Solution ✅|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/KAUST_Academy_2026_Introduction_To_AI/blob/main/Exercises/day_1/Day1_ExerciseSolution.ipynb)|
 
 ## Day 2: Machine Learning Algorithms
 
