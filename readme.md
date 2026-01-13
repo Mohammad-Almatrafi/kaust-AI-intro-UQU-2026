@@ -37,6 +37,10 @@ installation guide in thier website [pytorch website](https://pytorch.org/)
 |||
 | :---: | :---: |
 |lecture👨‍🏫|[slides](Day2/Stage_2_2026_Day2.pdf)|
+|local lab 1📓|[notebook](Day2/Labs/Day2_Lab1_Regression.ipynb)|
+|colab lab 1💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/KAUST_Academy_2026_Introduction_To_AI/blob/main/Labs/Day_2/Day2_Lab1_Regression.ipynb)|
+|local lab 2📓|[notebook](Day2/Labs/Day2_Lab2_BinaryClassification.ipynb)|
+|colab lab 2💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/KAUST_Academy_2026_Introduction_To_AI/blob/main/Labs/Day_2/Day2_Lab2_BinaryClassification.ipynb)|
 
 ## Day 3: Fundamentals of Deep Learning
 
