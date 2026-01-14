@@ -55,6 +55,8 @@ installation guide in thier website [pytorch website](https://pytorch.org/)
 |||
 | :---: | :---: |
 |lecture👨‍🏫|[slides](Day3/Stage_2_2026_Day3.pdf)|
+|local lab 1📓|[notebook](Day3/Labs/Day3_Lab1_PyTorchBasics.ipynb)|
+|colab lab 1💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/KAUST_Academy_2026_Introduction_To_AI/blob/main/Labs/Day_3/Day3_Lab1_PyTorchBasics.ipynb)|
 
 ## Day 4: Unsupervised Learning
 
