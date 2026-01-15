@@ -69,6 +69,6 @@ installation guide in thier website [pytorch website](https://pytorch.org/)
 | :---: | :---: |
 |lecture👨‍🏫|[slides](Day4/Stage_2_2026_Day4.pdf)|
 |colab lab 1 💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/KAUST-Academy/KAUST_Academy_2026_Introduction_To_AI/blob/main/Labs/Day_3/Day3_Lab1_PyTorchBasics.ipynb](https://colab.research.google.com/drive/1U2kvsKyJi1BXb6blN_Howav6yc68upbI?usp=sharing))| 
-|lab 2 💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/KAUST-Academy/KAUST_Academy_2026_Introduction_To_AI/blob/main/Labs/Day_3/Day3_Lab1_PyTorchBasics.ipynb](https://colab.research.google.com/drive/1U2kvsKyJi1BXb6blN_Howav6yc68upbI?usp=sharing))| 
-|colab lab 1 💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/KAUST-Academy/KAUST_Academy_2026_Introduction_To_AI/blob/main/Labs/Day_3/Day3_Lab1_PyTorchBasics.ipynb](https://colab.research.google.com/drive/1U2kvsKyJi1BXb6blN_Howav6yc68upbI?usp=sharing))| 
+|redacted local lab 2📓|[notebook](Day4/Labs/Day4_Lab2_UnsupervisedLearning_task.ipynb)|
+|colab lab 2 💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/KAUST-Academy/KAUST_Academy_2026_Introduction_To_AI/blob/main/Labs/Day_3/Day3_Lab1_PyTorchBasics.ipynb](https://colab.research.google.com/drive/1RgMQ0PWYgVLIc5ocGbDfCATF7wEEHy4o?usp=sharing))| 
 
