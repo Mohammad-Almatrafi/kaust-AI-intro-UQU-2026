@@ -71,4 +71,5 @@ installation guide in thier website [pytorch website](https://pytorch.org/)
 |colab lab 1 💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/KAUST-Academy/KAUST_Academy_2026_Introduction_To_AI/blob/main/Labs/Day_3/Day3_Lab1_PyTorchBasics.ipynb](https://colab.research.google.com/drive/1U2kvsKyJi1BXb6blN_Howav6yc68upbI?usp=sharing))| 
 |redacted local lab 2📓|[notebook](Day4/Labs/Day4_Lab2_UnsupervisedLearning_task.ipynb)|
 |redacted colab lab 2💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RgMQ0PWYgVLIc5ocGbDfCATF7wEEHy4o?usp=sharing)|
+|Exercise Solution ✅|[![image](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/KAUST-Academy/KAUST_Academy_2026_Introduction_To_AI/blob/main/Exercises/day_1/Day1_ExerciseSolution.ipynb](https://drive.google.com/file/d/1prQiR5ESQA_UG4NiKOYehruQyzB5u_6S/view?usp=sharing))|
 
